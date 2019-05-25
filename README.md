@@ -3,7 +3,7 @@ This is for the first project of Udacity Data Scientist Term 2.
 
 
 ## Note: 
-Users should download the 2018 Stack Overflow Annual Developer Survey file from the [link](https://insights.stackoverflow.com/survey1).
+Users should download the 2017 Stack Overflow Annual Developer Survey file from the [link](https://insights.stackoverflow.com/survey1).
 
 
 ## Library used:
@@ -48,4 +48,4 @@ for this difference.<br />
 
 - README.md 
 
-- the iPython file with all codes, named "data_scientist_udacity_term2_project 1.ipynb"
+- the iPython file with all codes, named "term2_project1_20190520.ipynb"
