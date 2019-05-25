@@ -3,10 +3,7 @@ This is for the first project of Udacity Data Scientist Term 2.
 
 
 ## Note: 
-Users should download the 2018 Stack Overflow Annual Developer Survey file from the [link](https://insights.stackoverflow.com/survey
-
-
-1).
+Users should download the 2018 Stack Overflow Annual Developer Survey file from the [link](https://insights.stackoverflow.com/survey1).
 
 
 ## Library used:
